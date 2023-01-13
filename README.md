@@ -15,7 +15,7 @@ A template CSV called 'transactions-template.csv' is included in the repository 
 To use the script, simply run the following command in your terminal:
 
 ```
-python csv-to-sepa_xml.py [path to CSV file]
+python3 csv-to-sepa_xml.py [path to CSV file]
 ```
 The script will then generate a SEPA XML file in the same directory as the provided CSV file.
 
