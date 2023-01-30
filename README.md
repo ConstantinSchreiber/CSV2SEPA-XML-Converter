@@ -21,4 +21,3 @@ The script will then generate a SEPA XML file in the same directory as the provi
 
 #### Obligatory Disclaimer
 *It is important to note that the use of this script is at your own risk. I am not responsible for any mishaps that may occur when using a generated XML. It is your responsibility to ensure that the information provided in the config.ini file and the CSV file is accurate and that the generated XML file does what you want it to do. :)*
-
